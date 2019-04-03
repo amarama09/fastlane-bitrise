@@ -1,4 +1,4 @@
-# UdemyFastlane
+# Fastlane - bitrise
 
 ![iOS](https://img.shields.io/badge/IOS--blue.svg)
 [![Build Status](https://www.bitrise.io/app/f4f06ce1bae5840c/status.svg?token=0iTSkpAi-TdKj3owTeylnw&branch=master)](https://www.bitrise.io/app/f4f06ce1bae5840c)
